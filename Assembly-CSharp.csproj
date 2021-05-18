@@ -56,9 +56,11 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Movimiento.cs" />
-    <Compile Include="Assets\movimiento_obstaculo.cs" />
-    <Compile Include="Assets\muchos_obstaculos.cs" />
+    <Compile Include="Assets\Scrip\movimiento_obstaculo.cs" />
+    <Compile Include="Assets\Scrip\muchos_obstaculos.cs" />
+    <Compile Include="Assets\Scrip\Movimiento.cs" />
+    <Compile Include="Assets\Scrip\perder.cs" />
+    <Compile Include="Assets\Scrip\ControladorEscena.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
