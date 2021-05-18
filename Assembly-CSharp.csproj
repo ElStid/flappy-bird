@@ -58,9 +58,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scrip\movimiento_obstaculo.cs" />
     <Compile Include="Assets\Scrip\muchos_obstaculos.cs" />
-    <Compile Include="Assets\Scrip\Movimiento.cs" />
-    <Compile Include="Assets\Scrip\perder.cs" />
     <Compile Include="Assets\Scrip\ControladorEscena.cs" />
+    <Compile Include="Assets\Scrip\perder.cs" />
+    <Compile Include="Assets\Scrip\Movimiento.cs" />
+    <Compile Include="Assets\Scrip\L_puntage.cs" />
+    <Compile Include="Assets\Scrip\area_puntaje.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
